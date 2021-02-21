@@ -1,18 +1,9 @@
-### Hi there, I'm Patrick Huynh 👋
+### 
 
-<!--
-**caoboiloi/caoboiloi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-## Working <a href="https://github.com/caoboiloi"><img align="left" width="auto" height="200" src="https://scontent.fsgn2-5.fna.fbcdn.net/v/t1.0-9/117946290_1406526072869756_7997634686531751133_n.jpg?_nc_cat=102&ccb=3&_nc_sid=09cbfe&_nc_ohc=ujvqLE08eZgAX-1pk1K&_nc_ht=scontent.fsgn2-5.fna&oh=07ef0e047237cc950af227c04967cf52&oe=6056A65C"></a>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> Hi there, I'm Patrick Huynh 👋 <img src="" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p>
+  <em>
+    Student at <a href="http://www.unb.br">Ton Duc Thang University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+  </em>
+</p>
