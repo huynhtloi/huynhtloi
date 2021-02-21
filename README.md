@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Patrick Huynh 👋
 
 <!--
 **caoboiloi/caoboiloi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## Working <a href="https://github.com/caoboiloi"><img align="left" width="auto" height="200" src="https://scontent.fsgn2-5.fna.fbcdn.net/v/t1.0-9/117946290_1406526072869756_7997634686531751133_n.jpg?_nc_cat=102&ccb=3&_nc_sid=09cbfe&_nc_ohc=ujvqLE08eZgAX-1pk1K&_nc_ht=scontent.fsgn2-5.fna&oh=07ef0e047237cc950af227c04967cf52&oe=6056A65C"></a>
 
 Here are some ideas to get you started:
 
