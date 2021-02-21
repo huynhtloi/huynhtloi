@@ -35,5 +35,5 @@
   <img src="http://nhanvanblog.com/upload/1517/fck/checkbookpenwritingchec_zps72a4e20e(2).gif" width="50">
 </h2>
 
-[![Linkedin: huynhloi](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/loihuynh262)](www.linkedin.com/in/loihuynh262)
+[![Linkedin: huynhloi](https://img.shields.io/badge/-loihuynh262-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/loihuynh262)](www.linkedin.com/in/loihuynh262)
 [![GitHub caoboiloi](https://img.shields.io/github/followers/caoboiloi?label=follow&style=social)](https://github.com/caoboiloi)
