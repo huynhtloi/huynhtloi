@@ -14,6 +14,21 @@
   </em>
 </p>
 
+<p>
+  <em>
+    Freelance Android Developer
+  </em>
+</p>
+
+<h2>
+  Projects for sharing
+</h2>
+
+* App - Penguin booking hotel: https://github.com/caoboiloi/Penguin-Booking-Hotel
+* Website - Book store: https://github.com/caoboiloi/Website-Book-Store
+* Research - Mining of massive datasets: https://github.com/caoboiloi/Mining-Of-Massive-Datasets
+* ...
+
 <h2>
   <img src="http://nhanvanblog.com/upload/1517/fck/checkbookpenwritingchec_zps72a4e20e(2).gif" width="50">
   <i>Life is a succession of lessons which must be lived to be understood</i>
