@@ -1,9 +1,10 @@
 
 <h2> Hi there, I'm Loi Huynh 👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="50">
 
 ![Avatar](Image/avatar.png)
 
-<img src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="200">
+
 <p>
   <em>
     Student at <a href="https://www.tdtu.edu.vn/trang-chu">Ton Duc Thang University</a>
