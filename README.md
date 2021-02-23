@@ -6,7 +6,7 @@
 
 </h2>
 
-![Avatar](../Image/avatar.png)
+![Avatar](Image/avatar.png)
 
 <p>
   <em>
