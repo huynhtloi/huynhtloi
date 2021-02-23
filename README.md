@@ -27,7 +27,7 @@
 </p>
 
 <div style="text-align:center;display: inline-block;">
-  <img src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="200">
  </div>
 
 <h2>
