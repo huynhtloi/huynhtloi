@@ -18,18 +18,16 @@
 <p>
   <em>
     Freelance Front-End Developer
+    <img src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="30" style="border-radius:50%;-moz-border-radius:50%;-webkit-border-radius:50%;">
   </em>
 </p>
 
 <p>
   <em>
     Freelance Android Developer
+    <img src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="30" style="border-radius:50%;-moz-border-radius:50%;-webkit-border-radius:50%;">
   </em>
 </p>
-
-<div style="text-align:center;display: inline-block;">
-  <img src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="200">
- </div>
 
 <h2>
   Projects for sharing
