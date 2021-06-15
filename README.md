@@ -39,7 +39,8 @@
 * Website - Pandas Voucher: https://github.com/caoboiloi/Voucher-Store-NodeJs-Mongo-Cloudinary
 * Website - Social Network TDTU: https://github.com/caoboiloi/Student-Social-Network
 * Research - Mining of massive datasets: https://github.com/caoboiloi/Mining-Of-Massive-Datasets
-* ...
+* Machine Learning - Emotion Recognition: https://github.com/caoboiloi/Emotion-Recognition
+* Machine Learning - Bank Marketing Data Set: https://github.com/caoboiloi/Business-Intelligence-Banking-Dataset
 
 <h2>
   <img src="http://nhanvanblog.com/upload/1517/fck/checkbookpenwritingchec_zps72a4e20e(2).gif" width="50">
