@@ -57,5 +57,6 @@
 </h2>
 
 [![Linkedin: huynhloi](https://img.shields.io/badge/-loihuynh262-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loihuynh262/)](https://www.linkedin.com/in/loihuynh262/)
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/HunhTnLi15?label=Follow%20me&style=social">
+[![Twitter: HunhTnLi15](https://img.shields.io/twitter/follow/HunhTnLi15?label=Follow%20me&style=social)](https://twitter.com/HunhTnLi15)
+<img alt="Twitter Follow" src="">
 [![GitHub caoboiloi](https://img.shields.io/github/followers/caoboiloi?label=follow&style=social)](https://github.com/caoboiloi)
