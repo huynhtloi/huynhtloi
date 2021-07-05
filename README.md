@@ -45,7 +45,7 @@
 * Website - Buffalo drive: https://github.com/caoboiloi/Website-Buffalo-Drive
 * Website - Pandas Voucher: https://github.com/caoboiloi/Voucher-Store-NodeJs-Mongo-Cloudinary
 * Website - Social Network TDTU: https://github.com/caoboiloi/Student-Social-Network
-* Research - Mining of massive datasets: https://github.com/caoboiloi/Mining-Of-Massive-Datasets
+* Research - Mining Of Massive Datasets: https://github.com/caoboiloi/Mining-Of-Massive-Datasets
 * Machine Learning - Emotion Recognition For Vietnamese Social Media Text: https://github.com/caoboiloi/Emotion-Recognition
 * Machine Learning - Bank Marketing Dataset: https://github.com/caoboiloi/Business-Intelligence-Banking-Dataset
 * ...
