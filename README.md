@@ -40,9 +40,9 @@
   Projects for sharing
 </h2>
 
-* App - Penguin booking hotel: https://github.com/caoboiloi/Penguin-Booking-Hotel
-* Website - Book store: https://github.com/caoboiloi/Website-Book-Store
-* Website - Buffalo drive: https://github.com/caoboiloi/Website-Buffalo-Drive
+* App - Penguin Booking Hotel: https://github.com/caoboiloi/Penguin-Booking-Hotel
+* Website - Book Store: https://github.com/caoboiloi/Website-Book-Store
+* Website - Buffalo Drive: https://github.com/caoboiloi/Website-Buffalo-Drive
 * Website - Pandas Voucher: https://github.com/caoboiloi/Voucher-Store-NodeJs-Mongo-Cloudinary
 * Website - Social Network TDTU: https://github.com/caoboiloi/Student-Social-Network
 * Research - Mining Of Massive Datasets: https://github.com/caoboiloi/Mining-Of-Massive-Datasets
