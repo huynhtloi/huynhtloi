@@ -44,7 +44,7 @@
 * Website - Book Store: https://github.com/caoboiloi/Website-Book-Store
 * Website - Buffalo Drive: https://github.com/caoboiloi/Website-Buffalo-Drive
 * Website - Pandas Voucher: https://huynhloi-pandas.herokuapp.com
-* Website - Social Network TDTU: https://tdtu-social-network.herokuapp.com
+* Website - Social Network TDTU: https://tdtu-social-network.herokuapp.com - https://github.com/caoboiloi/Student-Social-Network
 * Website - Book Worm: https://github.com/caoboiloi/Worm-Book - https://worm-book.herokuapp.com/#/
 * Research - Mining Of Massive Datasets: https://github.com/caoboiloi/Mining-Of-Massive-Datasets
 * Machine Learning - Emotion Recognition For Vietnamese Social Media Text: https://github.com/caoboiloi/Emotion-Recognition
