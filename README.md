@@ -47,8 +47,6 @@
 * Website - Social Network TDTU: https://tdtu-social-network.herokuapp.com - https://github.com/caoboiloi/Student-Social-Network
 * Website - Book Worm: https://worm-book.herokuapp.com/#/ - https://github.com/caoboiloi/Worm-Book
 * Research - Mining Of Massive Datasets: https://github.com/caoboiloi/Mining-Of-Massive-Datasets
-* Machine Learning - Emotion Recognition For Vietnamese Social Media Text: https://github.com/caoboiloi/Emotion-Recognition
-* Machine Learning - Bank Marketing Dataset: https://github.com/caoboiloi/Business-Intelligence-Banking-Dataset
 * ...
 
 <h2>
