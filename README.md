@@ -31,7 +31,7 @@
 
 <p>
   <em>
-    Node Developer
+    Drupal Developer
     <img src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="30" style="border-radius:50%;-moz-border-radius:50%;-webkit-border-radius:50%;">
   </em>
 </p>
